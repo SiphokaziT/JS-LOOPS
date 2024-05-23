@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+  }
+
+  p {
+    color: palevioletred;
+    font-family: verdana;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  h3{
+    color: palevioletred;
+    font-family: verdana;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
